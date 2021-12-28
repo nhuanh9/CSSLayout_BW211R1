@@ -106,7 +106,7 @@
     }
  }
  
- @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     .mid-top-item {
         width: 98%;
         margin-bottom: 10px;
@@ -115,5 +115,5 @@
         width: 48%;
         height: 200px;
     }
- }
+}
 
